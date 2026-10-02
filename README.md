@@ -1,4 +1,27 @@
-## Hi there 👋
+# 💫 About Me:
+ MECHATRONIC ENGINEERING student<br> learning AI/ML.<br> AI/ML enthusiast.<br> Just built an AI customer service bot with hindsight integration.<br> Exploring smart automation with Python. ⚡⚡
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ashrith Raj Gunti) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashrithnaniigunti@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ashrith-777&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ashrith-777&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashrith-777&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ashrith-777&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ashrith-777&limit=5&theme=city_lights&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=ashrith-777&icon=7&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
 <!--
 **ashrith-777/ashrith-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
