@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ashrith-777&limit=5&theme=city_lights&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ashrith-777&icon=7&color=8)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=ashrith-777)]
 
 <!--
 **ashrith-777/ashrith-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
