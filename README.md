@@ -21,8 +21,6 @@
 ---
 [![](https://komarev.com/ghpvc/?username=ashrith-777&icon=7&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
-
 <!--
 **ashrith-777/ashrith-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
